@@ -7,5 +7,6 @@ Comandos:
 -git status
 -git .gitignore
 -git checkout <ramaDestino>
+-git push
 
 Frase: Estoy en Beta continuo
