@@ -11,7 +11,7 @@
 -git tag -a <tag>
 -nano 
 
-Frase: Estoy en Beta continuo
+## Frase: Estoy en Beta continuo
 
 | Nombre compañero |enlace a GitHub|
 | -------------    | ------------- |
