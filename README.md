@@ -13,6 +13,8 @@
 
 ## Frase: Estoy en Beta continuo
 
+## Tabla
+
 | Nombre compañero |enlace a GitHub|
 | -------------    | ------------- |
 | Valentin         | ValenReviglio |
