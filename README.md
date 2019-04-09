@@ -14,7 +14,7 @@
 * git branch --nomerged
 
 ## Frase:
-Estoy en Beta continuo
+Todo parece imposible hasta que se hace - Nelson Mandela
 
 ## Tabla
 
