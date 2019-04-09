@@ -1,8 +1,8 @@
 # mastermeli2
 
 ## Comandos:
--git branch -a
--git branch <rama>
+1)git branch -a
+2)git branch <rama>
 -git clone <repo>
 -git status
 -git .gitignore
