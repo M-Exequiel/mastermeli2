@@ -11,7 +11,8 @@
 -git tag -a <tag>
 -nano 
 
-## Frase: Estoy en Beta continuo
+## Frase:
+Estoy en Beta continuo
 
 ## Tabla
 
