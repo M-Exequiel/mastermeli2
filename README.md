@@ -20,6 +20,6 @@ Todo parece imposible hasta que se hace - Nelson Mandela
 
 | Nombre compañero |enlace a GitHub|
 | -------------    | ------------- |
-| Valentin         | github.com/ValenReviglio |
-| Guido            | github.com/guidomichelini|
-| Marco            | github.com/marcojmsins   |
+| Valentin         | [ValenReviglio](github.com/ValenReviglio)  |
+| Guido            | [guidomichelini](github.com/guidomichelini)|
+| Marco            | [marcojmsins](github.com/marcojmsins)      |
